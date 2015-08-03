@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RawThumbnailExtractor
+namespace DCRaw
 {
     [StructLayout(LayoutKind.Explicit, Pack = 1)]
     public class TiffHdr

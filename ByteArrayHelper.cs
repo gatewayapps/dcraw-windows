@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace RawThumbnailExtractor
+namespace DCRaw
 {
     public static class ByteArrayHelper
     {

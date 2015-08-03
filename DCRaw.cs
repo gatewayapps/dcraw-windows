@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Windows.Storage.Streams;
 using Windows.UI.Xaml.Media.Imaging;
 
-namespace RawThumbnailExtractor
+namespace DCRaw
 {
     public class DCRaw : IDisposable
     {
